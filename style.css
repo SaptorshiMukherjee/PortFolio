@@ -112,14 +112,20 @@
 .text{
     border-left: .25px solid white;
     width:65%;
+    
+    padding-top: 10rem;
 }
 .text1{
     border-right: .25px solid white;
     width:65%;
+    padding-top: 10rem;
 }
 .image{
     /* border: .25px solid white; */
     width: 35%;
+    padding: 3rem;
+    align-content: center;
+    
     
 }
 #box{
@@ -130,3 +136,16 @@
     border-bottom: .5px solid white;
     
 }
+.text_box{
+
+    border: .5px solid white;
+    height: 30rem;
+}
+.image_box{
+
+    border: .5px solid white;
+    height: 30rem;
+    border-radius: 1rem;
+}
+
+    
