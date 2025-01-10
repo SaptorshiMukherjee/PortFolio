@@ -1,0 +1,10 @@
+/* about.css */
+@import url('style.css');
+
+/* Add specific styles for the About page here */
+.text_box p {
+    font-size: 1.5rem;
+    padding: 1rem;
+    font-family: Arial, sans-serif;
+    text-align: justify;
+}
